@@ -32,8 +32,8 @@
 # 部署
     1 先编译项目--参见上方项目编译打包
     2 需要将release/copy_flink_jars 目录下的jar 拷贝到flink home 目录下的lib 目录
-    3 配置/home/zyc/zdh_flinkx-4.7.18-RELEASE/bin/start_flink.sh脚本中,FLINk_HOME等参数
-    4 手动执行 /home/zyc/zdh_flinkx-4.7.18-RELEASE/bin/start_flink.sh  任务实例ID
+    3 配置/home/zyc/zdh_flinkx-x.x.x-RELEASE/bin/start_flink.sh脚本中,FLINk_HOME等参数
+    4 手动执行 /home/zyc/zdh_flinkx-x.x.x-RELEASE/bin/start_flink.sh  任务实例ID
        任务实例ID需配合web模块自动生成
     
 
